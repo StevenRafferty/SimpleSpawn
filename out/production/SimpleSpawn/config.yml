@@ -1,0 +1,16 @@
+SimpleSpawn:
+  Location:
+    X:
+    Y:
+    Z:
+    Yaw:
+    Pitch:
+  Messages:
+    no_permissions: "&4You do not have permission to use this command"
+    no_console_command: "&4Only players can execute this command"
+    no_spawn_location: "&4Ensure that you have set spawn"
+    spawn_set: "&2Spawn set"
+    teleporting_spawn: "&2Teleporting to spawn"
+  Permissions:
+    spawn: simplespawn.spawn
+    setspawn: simplespawn.setspawn
