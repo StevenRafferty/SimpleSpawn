@@ -13,3 +13,5 @@ A simple minecraft plugin with setspawn and spawn commands
 * Built with spigot-1.12.2
 * IDE IntelliJ Community 2020
 * Java 14
+## TODO
+* Separate messages and permissions into individual yml files
