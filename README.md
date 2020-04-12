@@ -7,3 +7,9 @@ A simple minecarft plugin with setspawn and spawn commands
 ## Commands
 * /spawn - Teleports player to the current spawn location that is set in the config.yml
 * /setspawn - Sets the current players spawn location to the config.yml
+## Download
+(https://github.com/StevenRafferty/SimpleSpawn/releases)[Download]
+## Build
+* Built with spigot-1.12.2
+* IDE IntelliJ Community 2020
+* Java 14
