@@ -1,5 +1,5 @@
 # SimpleSpawn
-A simple minecarft plugin with setspawn and spawn commands
+A simple minecraft plugin with setspawn and spawn commands
 ## Features
 * Configurable messages and permissions
 * Lightweight
